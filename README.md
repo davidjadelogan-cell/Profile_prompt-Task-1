@@ -16,9 +16,9 @@ Characteristics
   - Age
   - Nationality
   - Education level
-- JSON file handling using Python's built-in `json` module
-- File path handling using Python's built-in `os` module
-- Error handling using `try` and `except`
+- JSON file handling using Python's built-in `json module
+- File path handling using Python's built-in `os module
+- Error handling using `try and `except
 - Profile summary display
 
 ---
